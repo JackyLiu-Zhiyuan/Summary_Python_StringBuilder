@@ -1,0 +1,9 @@
+StringBuilider
+def useStringJoin(n):
+
+    list = []
+    for i in range(n):
+        list.append("num")
+    test = "".join(list)
+    
+    return test
